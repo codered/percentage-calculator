@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "percentage calculator",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "percentage calculations made easy",
+    "description": "The description of the application"
+  }
+}
