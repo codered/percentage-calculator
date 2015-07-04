@@ -1,0 +1,9 @@
+html, body {
+  width: 220px;
+}
+.row {
+  margin-top: 20px;
+}
+#previous {
+  margin-top: 15px;
+}
